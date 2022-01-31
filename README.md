@@ -13,3 +13,6 @@ Generate and use drawable icons
 The RecyclerView and its Adapter
 third-party libraries like Material components
 And finally the Android Room Library to store app data in the local memory
+
+![](https://github.com/404SolutionsGH/ExpenseTrackerAndroid/blob/main/ExpenseApp.png)
+
